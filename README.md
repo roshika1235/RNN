@@ -421,10 +421,10 @@ time
 
 # 👩‍💻 Authors
 
-### Roshika Challa
-### Priyanka Sandhila
-### Baddaram padhmini
-### Harshitha Chakkirala
+### Roshika 
+### Priyanka 
+### Padmini
+### Harshitha 
 ### Venkat
 ### Rupsa
 ### Sudhruti
