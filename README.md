@@ -438,4 +438,3 @@ https://github.com/roshika1235/RNN
 
 ---
 
-# ⭐ If you found this project useful, please consider giving it a star on GitHub.
